@@ -1,5 +1,5 @@
 {
-    "name": "graphaware/neo4j-bolt",
+    "name": "oosor/neo4j-bolt",
     "description": "Neo4j Bolt Binary Protocol PHP Driver",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Christophe Willemsen",
             "email": "christophe@graphaware.com"
+        },
+        {
+            "name": "Andrew",
+            "email": "3oosor@gmail.com"
         }
     ],
     "require": {
